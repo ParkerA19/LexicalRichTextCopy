@@ -1,0 +1,2 @@
+# LexicalRichTextCopy
+Created with CodeSandbox
